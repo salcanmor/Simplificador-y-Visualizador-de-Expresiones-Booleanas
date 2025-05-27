@@ -40,3 +40,8 @@ Simplificador y visualizador de expresiones booleanas con interfaz gráfica.
 ### Licencia
 
 Licencia MIT
+
+### Autores
+
+Salvador Canas Moreno
+Pablo Lopez Osorio
