@@ -39,4 +39,4 @@ Simplificador y visualizador de expresiones booleanas con interfaz gráfica.
 
 ### Licencia
 
-GPL-3.0 :contentReference[oaicite:1]{index=1}  
+Licencia MIT
