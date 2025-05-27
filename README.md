@@ -1,5 +1,7 @@
 # Simplificador y Visualizador de Expresiones Booleanas para la ASIGNATURA de SISTEMAS DIGITALES
 
+[![DOI](https://zenodo.org/badge/991319484.svg)](https://doi.org/10.5281/zenodo.15530670)
+
 La aplicación acepta de 2 a 4 expresiones booleanas o tablas de verdad como entrada, las simplifica usando el método de Quine–McCluskey y muestra la forma de simplificación con mapas de Karnaugh a todo color. :contentReference[oaicite:0]{index=0}
 
 * La entrada se puede introducir en la GUI de dos maneras:  
