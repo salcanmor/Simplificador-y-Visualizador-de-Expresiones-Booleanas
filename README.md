@@ -1,4 +1,4 @@
-# Simplificador y Visualizador de Expresiones Booleanas
+# Simplificador y Visualizador de Expresiones Booleanas para la ASIGNATURA de SISTEMAS DIGITALES
 
 La aplicación acepta de 2 a 4 expresiones booleanas o tablas de verdad como entrada, las simplifica usando el método de Quine–McCluskey y muestra la forma de simplificación con mapas de Karnaugh a todo color. :contentReference[oaicite:0]{index=0}
 
