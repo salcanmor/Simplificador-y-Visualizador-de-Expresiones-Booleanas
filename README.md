@@ -1,0 +1,1 @@
+# Simplificador-y-Visualizador-de-Expresiones-Booleanas
